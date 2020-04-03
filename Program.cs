@@ -6,7 +6,23 @@ namespace hw_1._03p3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            while (true){
+                System.Console.WriteLine("Enter the name of country");
+                CoronavirusIn someCountry = new CoronavirusIn();
+                someCountry.country = Console.ReadLine();
+                System.Console.WriteLine("Enter number of population: ");
+                someCountry.population = int.Parse(Console.ReadLine());
+                System.Console.WriteLine("Enter number of cases: ");
+                someCountry.numberOfCases = int.Parse(Console.ReadLine());
+                System.Console.WriteLine("Enter number of death: ");
+                someCountry.numberOfDeath = int.Parse(Console.ReadLine());
+                System.Console.WriteLine("Enter number of recoverded people: ");
+                someCountry.numberOfRecovered = int.Parse(Console.ReadLine());
+                System.Console.WriteLine("As I understand...");
+                someCountry.Show();
+                System.Console.WriteLine("I can say you that...");
+                someCountry.Position();
+            }
         }
         class CoronavirusIn{
             public string country {get; set;}
