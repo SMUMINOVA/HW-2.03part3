@@ -6,7 +6,6 @@ namespace hw_1._03p3
     {
         static void Main(string[] args)
         {
-            while (true){
                 System.Console.WriteLine("Enter the name of country");
                 CoronavirusIn someCountry = new CoronavirusIn();
                 someCountry.country = Console.ReadLine();
@@ -22,7 +21,6 @@ namespace hw_1._03p3
                 someCountry.Show();
                 System.Console.WriteLine("I can say you that...");
                 someCountry.Position();
-            }
         }
         class CoronavirusIn{
             public string country {get; set;}
@@ -43,9 +41,10 @@ namespace hw_1._03p3
                 Console.ForegroundColor = ConsoleColor.Red;
                 System.Console.WriteLine($"Number of cases in {country}: {numberOfCases}");
                 Console.ForegroundColor = ConsoleColor.Gray;
-                System.Console.WriteLine($"Number of cases in {country}: {numberOfDeath}");
+                System.Console.WriteLine($"Number of death in {country}: {numberOfDeath}");
                 Console.ForegroundColor = ConsoleColor.Green;
-                System.Console.WriteLine($"Number of cases in {country}: {numberOfRecovered}");
+                System.Console.WriteLine($"Number of recoverds in {country}: {numberOfRecovered}");
+                Console.ForegroundColor = ConsoleColor.White;
             }
             public void Position(){
                 if ((numberOfCases + numberOfDeath) > 0.7*population){

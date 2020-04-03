@@ -1,0 +1,13 @@
+/home/sobira/Рабочий стол/c#/hw-1.03p3/bin/Debug/netcoreapp3.1/hw-1.03p3
+/home/sobira/Рабочий стол/c#/hw-1.03p3/bin/Debug/netcoreapp3.1/hw-1.03p3.deps.json
+/home/sobira/Рабочий стол/c#/hw-1.03p3/bin/Debug/netcoreapp3.1/hw-1.03p3.runtimeconfig.json
+/home/sobira/Рабочий стол/c#/hw-1.03p3/bin/Debug/netcoreapp3.1/hw-1.03p3.runtimeconfig.dev.json
+/home/sobira/Рабочий стол/c#/hw-1.03p3/bin/Debug/netcoreapp3.1/hw-1.03p3.dll
+/home/sobira/Рабочий стол/c#/hw-1.03p3/bin/Debug/netcoreapp3.1/hw-1.03p3.pdb
+/home/sobira/Рабочий стол/c#/hw-1.03p3/obj/Debug/netcoreapp3.1/hw-1.03p3.csprojAssemblyReference.cache
+/home/sobira/Рабочий стол/c#/hw-1.03p3/obj/Debug/netcoreapp3.1/hw-1.03p3.csproj.CoreCompileInputs.cache
+/home/sobira/Рабочий стол/c#/hw-1.03p3/obj/Debug/netcoreapp3.1/hw-1.03p3.AssemblyInfoInputs.cache
+/home/sobira/Рабочий стол/c#/hw-1.03p3/obj/Debug/netcoreapp3.1/hw-1.03p3.AssemblyInfo.cs
+/home/sobira/Рабочий стол/c#/hw-1.03p3/obj/Debug/netcoreapp3.1/hw-1.03p3.dll
+/home/sobira/Рабочий стол/c#/hw-1.03p3/obj/Debug/netcoreapp3.1/hw-1.03p3.pdb
+/home/sobira/Рабочий стол/c#/hw-1.03p3/obj/Debug/netcoreapp3.1/hw-1.03p3.genruntimeconfig.cache
